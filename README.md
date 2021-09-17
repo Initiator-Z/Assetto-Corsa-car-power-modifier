@@ -21,4 +21,4 @@ python AC_power_modifier.py \
   --initial_power <current power output of the car> \
   --target_power <your desired power of the car>
 ```
-The defalut path is set at D:/Steam/steamapps/common/assettocorsa/content/cars/.
+The defalut path is set at D:/Steam/steamapps/common/assettocorsa/content/cars/
