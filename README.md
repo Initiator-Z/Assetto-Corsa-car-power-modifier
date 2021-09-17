@@ -1,9 +1,6 @@
-# Project Title
-
-Assetto Corsa car power modifier
+# Assetto Corsa car power modifier
 
 ## Description
-
 Modifies selected car power via changing the 'power.lut' file in car data folder
 
 ## Getting Started
